@@ -4,3 +4,4 @@ Commit3
 Commit4
 Commit5 - Syntax Error
 Commit6
+Commit7
